@@ -13,7 +13,7 @@ A Computer Science graduate from the University of Ruhuna, Sri Lanka, interested
 - 🤖 Exploring Large Language Models, Retrieval-Augmented Generation (RAG), and Reinforcement Learning.
 - 🔬 Conducted research on LLM-guided subgoal planning in symbolic environments.
 
-- ## 🛠️ Technical Skills
+## 🛠️ Technical Skills
 
 **Programming Languages**
 
@@ -38,3 +38,9 @@ PyTorch · Large Language Models · RAG · Reinforcement Learning · LangChain
 **Tools & Technologies**
 
 Git · GitHub · Bitbucket · Docker · Postman · Google Colab · RabbitMQ
+
+## 💻 Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,php,react,nodejs,express,spring,mongodb,mysql,postgres,firebase,docker,git,github,postman,html,css,tailwind,pytorch" />
+</p>
